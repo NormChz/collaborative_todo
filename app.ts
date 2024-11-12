@@ -1,2 +1,3 @@
-import express from 'express'
+import { app } from './src/express.ts'
 
+app()
