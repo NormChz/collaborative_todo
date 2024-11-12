@@ -1,0 +1,19 @@
+{
+  "name": "collaborative_todo",
+  "version": "1.0.0",
+  "description": "A collaborative app to keep track of tasks.",
+  "main": "app.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NormChz/collaborative_todo.git"
+  },
+  "author": "Norman Chizzali",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
